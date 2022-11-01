@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DataRecoveryApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textHeader">DATA RECOVERY APP</string>
+    <string name="textRecover">Recover</string>
+    <string name="recoverType">Images</string>
+    <string name="itemsRecover">650 items</string>
+</resources>
